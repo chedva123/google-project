@@ -18,7 +18,7 @@ Online- We recieve the prefix and access the map we have from the Offline phase 
 
 ### Implementation:
 
-The project was implement with C++17 in Linux.
+The project was implement with C++19 in Windows.
 The design is based on MVC architectural pattern that separates an application into three main logical components: the model, the view, and the controller. Each of these components are built to handle specific development aspects of an application.
 
 
