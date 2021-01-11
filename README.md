@@ -1,4 +1,4 @@
-## google-project-NechamaVerbov 11-12.12.2019 (As part of Excellenteam bootcamp)
+## google-project 11-12.12.2019 (As part of Excellenteam bootcamp)
 
 # Sentence auto complete
 
